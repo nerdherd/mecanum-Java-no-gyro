@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package edu.wpi.first.wpilibj.templates;
+package nerdherd.util;
 
 import edu.wpi.first.wpilibj.Timer;
 
